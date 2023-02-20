@@ -5,7 +5,7 @@ I have gained my skills through a combination of self-study and a structured tra
 with a particular interest in PHP, HTML, CSS, JavaScript and other web development technologies. 
 I am always looking to expand my knowledge and skills in this field.
 
-Please check out repo under this section.
+Please check out repos under this section.
 
 Stack: PHP (Symfony, MVC), HTML, CSS, JS, MySQL, C++ and still counting...
 
