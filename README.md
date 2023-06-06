@@ -17,3 +17,5 @@ Stack: PHP (Symfony, MVC), HTML, CSS, JS, MySQL, C++ and still counting...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymon-cieszynski)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/szymon-cieszynski)  
+
+![](https://komarev.com/ghpvc/?username=szymon-cieszynski)
