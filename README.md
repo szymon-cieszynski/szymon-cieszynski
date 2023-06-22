@@ -2,12 +2,12 @@
 ![](www.linkedin.com/in/szymon-cieszyński)
 
 I have gained my skills through a combination of self-study and a structured training program, which included various courses and workshops, 
-with a particular interest in PHP, HTML, CSS, JavaScript and other web development technologies. 
+with a particular interest in PHP and other web development technologies. 
 I am always looking to expand my knowledge and skills in this field.
 
 Please check out repos under this section.
 
-Stack: PHP (Symfony, MVC), HTML, CSS, JS, MySQL, C++ and still counting...
+Stack: PHP (Symfony, Behat, PHP Unit), HTML, CSS, JS, SQL (PostgreSQL, MySQL), MongoDB, C++ and still counting...
 
 📫 Contact?: cieszynski8@gmail.com
 
@@ -16,6 +16,5 @@ Stack: PHP (Symfony, MVC), HTML, CSS, JS, MySQL, C++ and still counting...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymon-cieszynski)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/szymon-cieszynski)  
 
 ![](https://komarev.com/ghpvc/?username=szymon-cieszynski)
