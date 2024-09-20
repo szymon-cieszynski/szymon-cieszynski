@@ -14,7 +14,6 @@ Stack: PHP (Symfony, Behat, PHP Unit), HTML, CSS, JS, SQL (PostgreSQL, MySQL), M
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/szymon-cieszynski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-cieszyński)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymon-cieszynski)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=szymon-cieszynski)](https://github.com/szymon-cieszynski/github-readme-stats)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=szymon-cieszynski&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/szymon-cieszynski)
 
 ![](https://komarev.com/ghpvc/?username=szymon-cieszynski)
